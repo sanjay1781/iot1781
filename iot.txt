@@ -1,0 +1,7 @@
+IOT
+practical 01:Design and implement basics embedded circuits.
+practical 1.A:Automatic Alarm system- Alarm should get tigger by senor
+practical 1.B:Timer based buzzer 
+practical 1.C:Sensor based Counting device 
+practical 04:Develop an IoT application for monitoring water levels in tanks and automatically start the motor to fill the tank if the level goes below the critical level.
+practical 06:Develop an IoT application for Motion detection.
